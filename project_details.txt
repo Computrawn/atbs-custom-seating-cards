@@ -7,5 +7,5 @@ image file with the guest name and some flowery decoration. A public domain flow
 is also available in the book's resources.
 To ensure that each seating card is the same size, add a black rectangle on the edges 
 of the invitation image so that when the image is printed out, there will be a guideline 
-for cutting. The PNG files that Pillow pro- duces are set to 72 pixels per inch, so a 
+for cutting. The PNG files that Pillow produces are set to 72 pixels per inch, so a 
 4×5-inch card would require a 288×360-pixel image.

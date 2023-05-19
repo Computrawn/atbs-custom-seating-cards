@@ -3,6 +3,7 @@
 # For more information, see project_details.txt.
 
 import logging
+from PIL import Image
 
 logging.basicConfig(
     level=logging.DEBUG,
